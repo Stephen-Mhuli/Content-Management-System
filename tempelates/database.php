@@ -52,7 +52,3 @@ while($subject = mysqli_fetch_assoc($result)){
 ?>
 </body>
 
-<?php 
- mysqli_close($conn); 
- ?>
-</html>
